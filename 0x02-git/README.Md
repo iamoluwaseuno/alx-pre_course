@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School projects# alx-pre_course
+0x02-git Readme file
